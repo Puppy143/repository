@@ -26,15 +26,12 @@ Location_Analyser-master/
 
 Files Description
 .gitignore
-
 Git configuration file to specify files and folders to ignore.
 
 mini project ppt.pptx
-
 PowerPoint presentation summarizing the project work.
 
 miniproject (1).ipynb
-
 Jupyter Notebook containing:
 Data preprocessing
 Location-based data analysis logic
@@ -42,7 +39,6 @@ Visualizations for results
 Conclusions drawn from the analysis.
 
 miniproject report.pdf
-
 Comprehensive project report documenting:
 Problem statement
 Methodology
@@ -60,15 +56,11 @@ PDF Reporting Tools
 Usage
 
 Open the Jupyter Notebook miniproject (1).ipynb to explore the project code and visualizations.
-
 Refer to the miniproject report.pdf for a detailed explanation of the problem, methodology, and results.
-
 Use the mini project ppt.pptx for quick presentations or an overview of the project.
 
 About the Project
-
 The Location Analyser project is a practical implementation designed for analyzing location-based datasets. It can be used to:
-
 Identify geographical trends or patterns.
 Extract meaningful insights from raw data.
 Present findings effectively through visualizations and reports.
